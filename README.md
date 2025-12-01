@@ -1,14 +1,13 @@
 <h2 align="left">Hi 👋! My name is Bruno Hiroshi</h2>
 
-###
+----
+
+<h2 align="left">About me: </h2>
+<h3 align="left">Brazilian software developer who is always learning. Programming is my passion and I will improve more and more each day. </h3>
 
 <br clear="both">
 
 <h3 align="left">Social Media</h3>
-
-###
-
-<br clear="both">
 
 <img align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlyZjdkeDRsb3J0aTZyZ290NXg2NWN1ZWM4bG84MnU3djFmMml1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
 
