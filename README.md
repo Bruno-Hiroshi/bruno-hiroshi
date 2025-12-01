@@ -4,6 +4,7 @@
 
 <h2 align="left">About me: </h2>
 <h3 align="left">Brazilian software developer who is always learning. Programming is my passion and I will improve more and more each day. </h3>
+Systems Analysis and Development @ FATEC ZONA LESTE
 
 <br clear="both">
 
